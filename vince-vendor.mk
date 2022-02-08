@@ -1012,5 +1012,4 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     android.hardware.gnss@2.1-service-qti \
     manifest_android.hardware.drm@1.2-service.widevine \
-    vendor.qti.gnss@4.0-service \
-    chargeonlymode
+    vendor.qti.gnss@4.0-service
